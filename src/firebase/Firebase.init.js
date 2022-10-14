@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "email-password-auth-6551b",
   storageBucket: "email-password-auth-6551b.appspot.com",
   messagingSenderId: "552494416452",
-  appId: "1:552494416452:web:f3bf909f2de7e9f91b3211"
+  appId: "1:552494416452:web:f3bf909f2de7e9f91b3211",
 };
 
 // Initialize Firebase

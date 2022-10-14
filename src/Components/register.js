@@ -1,17 +1,17 @@
-import React from 'react';
+import React from "react";
 
 const register = () => {
-    return (
-        <div>
-             {/* <form onSubmit={handleRegister}>
+  return (
+    <div>
+      {/* <form onSubmit={handleRegister}>
         <input onChange={handleEventChange} type="email" name='email' id='' placeholder='Enter Your Email' />
         <br />
         <input onChange={handlePasswordChange} type="password" name='password' placeholder='Enter Your Password' />
         <br />
         <button type='submit'>Register</button>
       </form> */}
-        </div>
-    );
+    </div>
+  );
 };
 
 export default register;
